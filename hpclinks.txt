@@ -1,9 +1,7 @@
 hpc
 
 http://insidehpc.com/
-
 http://www.hpcwire.com/
-
 http://www.hpctoday.com/
 
 https://software.intel.com/en-us/ipcc
