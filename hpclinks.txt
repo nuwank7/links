@@ -1,0 +1,16 @@
+hpc
+
+http://insidehpc.com/
+
+http://www.hpcwire.com/
+
+http://www.hpctoday.com/
+
+https://software.intel.com/en-us/ipcc
+https://software.intel.com/en-us/performance
+http://pcl.intel-research.net/
+
+Intel Courses
+
+https://software.intel.com/en-us/academic/courseware
+http://ipcc.cs.uoregon.edu/curriculum.html#Current
